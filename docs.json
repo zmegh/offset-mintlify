@@ -11,6 +11,10 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "API Reference",
+        "openapi": "http://ppbe-api-dev.eba-jx3cccpq.us-east-1.elasticbeanstalk.com/openapi.json"
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
